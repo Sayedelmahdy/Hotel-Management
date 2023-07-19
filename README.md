@@ -95,6 +95,11 @@ For any issues, questions, or suggestions related to the project or the conversi
 - Sayed Elmahdy: sayed.work223@gmail.com
 - Mohamed Abdelsayed: Abdulsayedd@gmail.com
 
+## Contributions
+- [Mohamed Abdelsayed](https://github.com/Abdulsayedd/Abdulsayedd)
+
 ---
 
 We appreciate Nazimamin's initial contributions to the Hotel Management application and thank him for his work. We are committed to respecting the original work and aim to improve the application by converting it to Entity Framework.
+
+
