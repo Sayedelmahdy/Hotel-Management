@@ -31,6 +31,32 @@ The ADO.NET to Entity Framework conversion process involves the following steps:
 
 7. **Unit Testing:** Conduct unit tests to ensure that the data access layer is functioning correctly with Entity Framework.
 
+
+### Database
+
+The Hotel Management System utilizes a SQL Server database to store and manage the data. The database backup files, `FrontEnd_Reservation.bak` and `Login_Manager.bak`, are included in the project repository.
+
+To restore the database from the backup files, follow these steps:
+
+1. Make sure you have SQL Server installed on your machine.
+
+2. Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
+
+3. Right-click on "Databases" in the Object Explorer and select "Restore Database".
+
+4. In the "Source" section, choose "Device" and click the ellipsis button (`...`) to browse for the backup file.
+
+5. Locate and select the `FrontEnd_Reservation.bak` and `Login_Manager.bak` files from your local repository.
+
+6. Verify the "Destination" database name and file locations.
+
+7. Click "OK" to start the database restoration process.
+
+8. Once the restoration is complete, the Hotel Management System should be able to connect to the database.
+
+Please note that the exact steps may vary depending on your SQL Server version and configuration.
+
+
 ### Getting Started
 
 To get started with the Hotel Management application and the conversion process, follow these steps:
