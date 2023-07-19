@@ -83,11 +83,17 @@ We welcome contributions to enhance the application's functionality and performa
 
 4. Ensure that your code passes all tests and does not introduce any breaking changes.
 
+### Acknowledgements
+
+Special thanks to my friend [Mohamed Abdulsayed](https://github.com/Abdulsayedd/Abdulsayedd) for their valuable contributions and collaboration on this project. Working together made this conversion process an enjoyable experience.
+
+
 ### Support and Contact
 
 For any issues, questions, or suggestions related to the project or the conversion process, feel free to contact the maintainers:
 
 - Sayed Elmahdy: sayed.work223@gmail.com
+- Mohamed Abdelsayed: Abdulsayedd@gmail.com
 
 ---
 
